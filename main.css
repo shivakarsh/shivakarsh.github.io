@@ -1,0 +1,7 @@
+.pos_centered{
+
+       position: absolute;
+       text-align: center;
+       left: 1%;
+       right: 1%;
+}
